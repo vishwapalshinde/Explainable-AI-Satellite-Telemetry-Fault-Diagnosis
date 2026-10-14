@@ -1,0 +1,3 @@
+# models/trained/.gitkeep
+# This directory stores trained model files
+# Files in this directory are ignored by git (see .gitignore)
